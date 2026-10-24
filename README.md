@@ -6,9 +6,9 @@ I like understanding how things work, figuring out what went wrong, and learning
 
 ### What I'm working on
 
-🤖 **UTECxina** — Working with my university team on an interactive assistant that helps students and visitors navigate campus, connecting software with ESP32-based hardware.
+ **UTECxina** — Working with my university team on an interactive assistant that helps students and visitors navigate campus, connecting software with ESP32-based hardware.
 
-✨ **NOVA** — Building a personal assistant in Python while exploring voice interaction and local AI models.
+ **NOVA** — Building a personal assistant in Python while exploring voice interaction and local AI models.
 
 ### What I'm learning
 
